@@ -3,5 +3,5 @@ Motion Capture Surveillance is a Python-based program that allows you to detect 
 
 - Download the repo as a zip
 -  Extract the contents of the zip
--  Install the required libraries using `pip install -r reuqirements.txt`
+-  Install the required libraries using `pip install -r requirements.txt`
 - Open `capture.py` in your code editor and run the code
